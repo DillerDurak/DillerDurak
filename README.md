@@ -1,10 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/TrgAAwTiTfHhhH40jJ/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif" width="150">
 <div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="VK Badge">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube Badge">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01de56b5d5b164f15c">
+    <img src="https://img.shields.io/badge/Upwork-blueviolet?style=for-the-badge&logo=upwork&logoColor=brightgreen" alt="UpWork Badge">
+  </a>
 </div>
 
 <div id="viewprof" align="center">
@@ -13,24 +17,23 @@
   
 <div id="heythere" align="center">
   <h1>
-    Приветик
+    Hi there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="500" height="400">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="400">
 </div>
  
- <div align="left">
+  <div align="left">
   :fried_egg: About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Moscow.
-
+  I am a Python Developer/Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+  
   - :telescope: I’m working as a Software Engineer and contributing
-  to frontend and backend for building web applications.
-  - :seedling: I'm hardworker. My moto is if you wanna win the lottery, you have to make money to buy a ticket.
-  - :zap: In my free time, I code my own sites and
-  read tech articles.
+  to frontend and backend (Django) for building web applications.
+  - :watch: I'm a quite fast learner.
+  - :seedling: In my free time, I keep learning and improving myself.
 </div>
 
 :hammer_and_wrench: Languages and Tools :
