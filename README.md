@@ -48,10 +48,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
  
+<br>
 
 :fire: My Stats :
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DillerDurak&theme=jolly">
+  <img src="https://github-readme-stats.vercel.app/api?username=DillerDurak&theme=jolly" alt="">
 </div>
-  
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DillerDurak&theme=jolly&layout=compact" alt="">
+</div>
+
+<br>
+  
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="">
+</div>
