@@ -2,15 +2,6 @@
   <img src="https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif" width="150">
 <div>
 
-<div id="badges">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01de56b5d5b164f15c">
-    <img src="https://img.shields.io/badge/Upwork-blueviolet?style=for-the-badge&logo=upwork&logoColor=brightgreen" alt="UpWork Badge">
-  </a>
-</div>
-
 <div id="viewprof" align="center">
   <img src="https://komarev.com/ghpvc/?username=DillerDurak&style=flat-square&color=blue" alt="">
 </div>
@@ -40,7 +31,7 @@
 <div align="center">
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/golang/golang-original.svg" title="Go" alt="Go" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
