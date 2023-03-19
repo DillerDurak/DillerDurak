@@ -28,10 +28,10 @@
  
   <div align="left">
   :fried_egg: About Me :
-  I am a Python Developer/Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+  I am a Backend Developer with experience of frontend  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
   
   - :telescope: I’m working as a Software Engineer and contributing
-  to frontend and backend (Django) for building web applications.
+  to frontend and backend (Python/Go) for building web applications.
   - :watch: I'm a quite fast learner.
   - :seedling: In my free time, I keep learning and improving myself.
 </div>
@@ -40,6 +40,7 @@
 <div align="center">
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
@@ -63,6 +64,3 @@
 
 <br>
   
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="">
-</div>
