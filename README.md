@@ -13,7 +13,8 @@
               - :watch: I'm a quite fast learner.
               - :seedling: In my free time, I keep learning and improving myself.
             </div>
-             <hr>
+             <br>
+             <br>
             :hammer_and_wrench: Languages and Tools :
             <div align="center">
               <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Git" width="40" height="40"/>
