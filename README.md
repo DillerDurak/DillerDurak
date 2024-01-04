@@ -3,16 +3,15 @@
         <td>
             <img src="https://media3.giphy.com/media/WS6CDvvyNDrhZRFBtT/giphy.gif" width="400" height="400">
         </td>
-        
          <td>
-              <div align="left">
-                  :fried_egg: About Me :
-                  I am a Backend Developer with experience of frontend  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
-                  - :telescope: I’m working as a Software Engineer and contributing
-                  to frontend and backend (Python/Go) for building web applications.
-                  - :watch: I'm a quite fast learner.
-                  - :seedling: In my free time, I keep learning and improving myself.
-                </div>
+          <div align="left">
+              :fried_egg: About Me :
+              I am a Backend Developer with experience of frontend  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+              - :telescope: I’m working as a Software Engineer and contributing
+              to frontend and backend (Python/Go) for building web applications.
+              - :watch: I'm a quite fast learner.
+              - :seedling: In my free time, I keep learning and improving myself.
+            </div>
             :hammer_and_wrench: Languages and Tools :
             <div align="center">
               <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Git" width="40" height="40"/>
