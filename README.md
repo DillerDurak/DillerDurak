@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif" width="150">
-<div>
-
 <div id="viewprof" align="center">
   <img src="https://komarev.com/ghpvc/?username=DillerDurak&style=flat-square&color=blue" alt="">
 </div>
