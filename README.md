@@ -1,9 +1,5 @@
-<div id="viewprof" align="center">
-  <img src="https://komarev.com/ghpvc/?username=DillerDurak&style=flat-square&color=blue" alt="">
-</div>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="400">
+  <img src="https://media0.giphy.com/media/xTk9Zx0YYJJqjZN4xa/giphy.gif?cid=ecf05e47f57k9ncfelr7t87ektpg99oeom7vdlibp1bs08k3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="400">
 </div>
  
   <div align="left">
@@ -32,6 +28,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>
   
+</div>
+
+<div id="viewprof" align="center">
+  <img src="https://komarev.com/ghpvc/?username=DillerDurak&style=flat-square&color=blue" alt="">
 </div>
  
 
