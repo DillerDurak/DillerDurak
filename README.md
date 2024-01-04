@@ -8,6 +8,7 @@
               <br>
               :fried_egg: About Me :
               I am a Backend Developer with experience of frontend  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+              
               - :telescope: I’m working as a Software Engineer and contributingto frontend and backend (Python/Go) for building web applications.
               - :watch: I'm a quite fast learner.
               - :seedling: In my free time, I keep learning and improving myself.
