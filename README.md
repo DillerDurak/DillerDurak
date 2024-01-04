@@ -5,6 +5,7 @@
         </td>
          <td valign="top">
           <div align="left">
+              <br>
               :fried_egg: About Me :
               I am a Backend Developer with experience of frontend  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
               - :telescope: I’m working as a Software Engineer and contributing
