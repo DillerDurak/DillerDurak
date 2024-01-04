@@ -1,8 +1,8 @@
-<div>
-    <div align="left">
+<div style="display: flex">
+    <div>
         <img src="https://media3.giphy.com/media/WS6CDvvyNDrhZRFBtT/giphy.gif" width="400" height="400">
     </div>
-     <div align="right">
+     <div>
           <div align="left">
               :fried_egg: About Me :
               I am a Backend Developer with experience of frontend  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
